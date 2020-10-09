@@ -1,2 +1,4 @@
 # Staff-Scheduler
-This is Scheduler I created some time ago hope you guys like it and or build on it
+This is a simple Scheduler I created some time ago,
+only capable of updating and retrieving Schedule information.
+I will be updating as I progress.
